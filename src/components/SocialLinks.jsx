@@ -20,6 +20,7 @@ const socialLinks = [
     name: "Leetcode",
     displayName: "LeetCode",
     subText: "Pranamya",
+    
     icon: ({ className, ...props }) => (
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 6.226l-3.854 4.126a1.655 1.655 0 0 0 0 2.226 1.655 1.655 0 0 0 2.226 0l2.939-3.141 2.939 3.141a1.655 1.655 0 0 0 2.226 0 1.655 1.655 0 0 0 0-2.226l-3.854-4.126 5.406-5.788A1.374 1.374 0 0 0 13.483 0z" fill="#FFA116"/>
@@ -28,7 +29,7 @@ const socialLinks = [
         <path d="M19.91 22.537a1.374 1.374 0 0 0 .961-.438l5.406-5.788-3.854-4.126a1.655 1.655 0 0 0-2.226 0 1.655 1.655 0 0 0 0 2.226l2.939 3.141-2.939 3.141a1.655 1.655 0 0 0 0 2.226 1.655 1.655 0 0 0 2.226 0l3.854-4.126-5.406-5.788a1.374 1.374 0 0 0-.961-.438z" fill="#FFA116"/>
       </svg>
     ),
-    url: "N/A",
+    url: "https://leetcode.com/u/Pranamya_Das/",
     color: "#FFA116",
     gradient: "from-[#FFA116] to-[#FFA116]",
     isPrimary: true
