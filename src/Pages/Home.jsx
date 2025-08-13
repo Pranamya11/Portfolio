@@ -82,6 +82,7 @@ const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/Pranamya11" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/pranamya-das-9964b5256/" },
+  { icon:Leetcode, link:"https://leetcode.com/pranamya11/"}
   // { icon:Leetcode, link: "https://leetcode.com/u/Pranamya_Das/" }
 ];
 
